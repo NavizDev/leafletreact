@@ -1,0 +1,205 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.651292865, -33.437933957, 0]
+      },
+      "properties": {
+        "id": 582
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.651219781, -33.438351057, 0]
+      },
+      "properties": {
+        "id": 581
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.651744833, -33.437795002, 0]
+      },
+      "properties": {
+        "id": 558
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.651052302, -33.437128361, 0]
+      },
+      "properties": {
+        "id": 589
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.650763988, -33.437233382, 0]
+      },
+      "properties": {
+        "id": 564
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.650405386, -33.437050788, 0]
+      },
+      "properties": {
+        "id": 590
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.652210686, -33.438906075, 0]
+      },
+      "properties": {
+        "id": 563
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.651156979, -33.436517541, 0]
+      },
+      "properties": {
+        "id": 604
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.649550196, -33.438441264, 0]
+      },
+      "properties": {
+        "id": 567
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.64967153, -33.437019009, 0]
+      },
+      "properties": {
+        "id": 771
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.652081137, -33.43986946, 0]
+      },
+      "properties": {
+        "id": 768
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.652165351, -33.439875377, 0]
+      },
+      "properties": {
+        "id": 769
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.649228851, -33.438531092, 0]
+      },
+      "properties": {
+        "id": 562
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.650358274, -33.435997421, 0]
+      },
+      "properties": {
+        "id": 561
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.653423766, -33.438312803, 0]
+      },
+      "properties": {
+        "id": 584
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.653084157, -33.439163838, 0]
+      },
+      "properties": {
+        "id": 583
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.653809306, -33.437341137, 0]
+      },
+      "properties": {
+        "id": 577
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.647998441, -33.439193599, 0]
+      },
+      "properties": {
+        "id": 770
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.649081804, -33.440874674, 0]
+      },
+      "properties": {
+        "id": 597
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.647414016, -33.438135996, 0]
+      },
+      "properties": {
+        "id": 786
+      }
+    }
+  ]
+}
