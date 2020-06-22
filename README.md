@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Challenge CSW Consultores Ambientales
 
-Ejercicio de programación para postular a [CSW Consultores Ambientales](https://github.com/cswcl/fake-api)
+Ejercicio de programación para postular a [CSW Consultores Ambientales](https://github.com/cswcl/fake-api)<br />
 Hecho por Juan Silupu Maza - NavizDev
 
 ## Available Scripts
